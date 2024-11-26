@@ -1,6 +1,6 @@
 # < TechBoost Hackathon - TeamH >
 
-# [ 🎥 영화 리뷰 플랫폼 🎥 ]
+## [ 🎥 영화 리뷰 플랫폼 🎥 ]
 
 ## 📣 안내사항
 
